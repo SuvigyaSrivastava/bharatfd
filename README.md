@@ -2,10 +2,6 @@
   <h1>🌏 BharatFD</h1>
   <p><i>Intelligent Multilingual FAQ Management System</i></p>
   
-  [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-blue.svg)](https://www.mongodb.com/)
-  [![Redis](https://img.shields.io/badge/Redis-6.0+-red.svg)](https://redis.io/)
-  [![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
 </div>
 
 ## Overview
