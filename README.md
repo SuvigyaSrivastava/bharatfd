@@ -25,15 +25,7 @@ BharatFD is an advanced FAQ management system designed to break language barrier
 - Request validation
 - Security middleware integration
 
-## Use Cases
 
-```mermaid
-graph TD
-    A[BharatFD] --> B[E-commerce]
-    A --> C[Government Portals]
-    A --> D[Educational Platforms]
-    A --> E[Customer Support]
-```
 
 ## Images
 ![All FAQs](images/faqs.jpeg)
